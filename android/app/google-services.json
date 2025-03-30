@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377507101772",
+    "project_id": "emp-mgmt-app-65da3",
+    "storage_bucket": "emp-mgmt-app-65da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377507101772:android:37b2d9a9e1a97bc20e48e9",
+        "android_client_info": {
+          "package_name": "com.example.emp_mgmt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpKRfHV4R3t7xONBbIAOVS_DYf8nzBkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
